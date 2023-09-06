@@ -1,0 +1,34 @@
+{
+  "dataset": "../dataset/dataset_english.csv",
+  "norm_model": "Robust",
+  "models_names": [
+     [
+      "LogisticRegression",
+      {}
+     ]
+],
+  "grid_search": false,
+  "target_column": "Class",
+  "numeric_features": [
+   "Parity",
+   "Gesta",
+   "AE",
+   "PreviousDeliveryTerm",
+   "Age",
+   "InitialWeight",
+   "FinalWeight",
+   "Height",
+   "InitialIMC",
+   "FinalIMC",
+   "WeightGain",
+   "IGPreviousDelivery",
+   "PreviousDeliveryTimeMonths",
+   "IG",
+   "InductiveTimeMin",
+   "Bishop",
+   "PreviousPTDelivery"
+  ],
+  "test_shap" : true,
+  "test_all_data" : true,
+  "kfolds" : 10
+ }
