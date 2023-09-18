@@ -4,10 +4,10 @@ Predicting vaginal delivery after labour induction using machine learning: devel
 
 ## Authors
 
-- Iolanda Ferreira, Obstetrics Department, Centro Hospitalar e Universitário de Coimbra
-- Joana Simões, CISUC
-- João Correia, CISUC
-- Ana Luísa Areia, Obstetrics Department, Centro Hospitalar e Universitário de Coimbra
+- Iolanda Ferreira, Obstetrics Department, Centro Hospitalar e Universitário de Coimbra; University of Coimbra, Medicine Faculty - Coimbra, Portugal
+- Joana Simões, University of Coimbra, Centre for Informatics and Systems of the University of Coimbra, Department of Informatics Engineering, Portugal
+- João Correia, University of Coimbra, Centre for Informatics and Systems of the University of Coimbra, Department of Informatics Engineering, Portugal
+- Ana Luísa Areia, Obstetrics Department, Centro Hospitalar e Universitário de Coimbra; University of Coimbra, Medicine Faculty - Coimbra, Portugal
 
 ## Packages versions
 
